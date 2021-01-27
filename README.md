@@ -24,10 +24,10 @@ Bi-Weekly Coding Challenge #5
 # How to Execute -- >
 
 ### !!! WARNING !!!
-Only works on Windows 10 devices 
-Windows Defender may display a warning of a trojan in the .exe file 
-Please visit the link below for more information 
-https://drive.google.com/file/d/1F9yFrainCCDtdJUn078LLsdwXV1KFWP5/view?usp=sharing 
+Only works on Windows 10 devices  
+Windows Defender may display a warning of a trojan in the .exe file  
+Please visit the link below for more information  
+https://drive.google.com/file/d/1F9yFrainCCDtdJUn078LLsdwXV1KFWP5/view?usp=sharing  
 
 ### How to
 1. Download and extract the file "Checkers_v0.9.zip"
