@@ -26,11 +26,12 @@ Bi-Weekly Coding Challenge #5
 ### !!! WARNING !!!
 Only works on Windows 10 devices  
 Windows Defender may display a warning of a trojan in the .exe file  
-Please visit the link below for more information  
+Please visit the link below for more information of a sample file I sent to Microsoft  
 https://drive.google.com/file/d/1F9yFrainCCDtdJUn078LLsdwXV1KFWP5/view?usp=sharing  
 
 ### How to
-1. Download and extract the file "Checkers_v0.9.zip"
-2. Open the folder "Checkers_v0.9.zop"
-3. Locate and run the file "Checkers_v0.9.exe"
-4. If a Windows popup appears, press "more info", then "run anyways"
+1. Make sure that your Windows Defender definitions are up to date. Follow the instructions on the link provided above
+2. Download and extract the file "Checkers_v0.9.zip"
+3. Open the folder "Checkers_v0.9.zop"
+4. Locate and run the file "Checkers_v0.9.exe"
+5. If a Windows popup appears, press "more info", then "run anyways"
