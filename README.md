@@ -20,6 +20,7 @@ Bi-Weekly Coding Challenge #5
 * Allows for custom player names
 * Displays how many checkers of each color were captured
 * Displays whose turn it is
+* All custom assets made by Deejuanae Lewis
 
 # How to Execute -- >
 
